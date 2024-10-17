@@ -1,38 +1,71 @@
-body{font-family:"Roboto",sans-serif; color: #2e2f42;}
-h1{font-weight: 700;
+body{font-family:"Roboto",sans-serif; color: #434455; background-color:#FFFFFF;}
+.logo{font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+text-decoration: none;
+color: #4d5ae5;}
+
+.logo-studio{color: #2e2f42;}
+ .menu-nav{letter-spacing: 0.02em;
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+color: #2e2f42;}
+
+ .menu-nav:hover, .menu-nav:focus{color: #404bbf;}
+ .first-section{background-color: #2e2f42;}
+.title{font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
-    text-align: center;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
     color: #fff;
-background: #2e2f42;}
-h2{font-weight: 700;
+}
+.title-section{font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
-    text-align: center;}
-.menu-nav {font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
     }
-    .contact-links a{font-size: 16px;
-        line-height: 1.5; 
-        color: #434455;}
+.contact-links{font-style: normal;}
+.mail{font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+letter-spacing: 0.02em}
+    .telephone{font-size: 16px;
+        line-height: 1.5;
+        color: #434455;
+    letter-spacing: 0.02em}
+
         .contact-links a:hover, .contact-links a:focus{color:#404bbf;}
-        button{font-weight: 500;
+       .button-service{font-weight: 500;
             font-size: 16px;
             line-height: 1.5;
             color: #fff;
+            letter-spacing: 0.04em;
         background: #4d5ae5;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);}
+        cursor: pointer;
+    }
     button:hover, button:focus{background:#404bbf;}
-    .text-content h3{font-weight: 500;
+    .title-text{font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
-        text-align: center;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+        
         }
-.text-content p{font-size: 16px;
+.text-content{font-size: 16px;
     line-height: 1.5;
-    text-align: center;
-    color: #434455;}
-       p{font-size: 16px;
+    color: #434455;
+letter-spacing: 0.02em;}
+.team{background-color: #F4F4FD;}
+    .footer{background-color: #2e2f42;}
+    .logo-studio-footer{color: #f4f4fd;}
+    .text-footer{font-size: 16px;
         line-height: 1.5;
+        letter-spacing: 0.02em;
                color: #f4f4fd;}
