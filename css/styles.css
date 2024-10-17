@@ -21,6 +21,7 @@ color: #2e2f42;}
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #fff;
 }
 .title-section{font-weight: 700;
@@ -32,14 +33,11 @@ color: #2e2f42;}
     color: #2e2f42;
     }
 .contact-links{font-style: normal;}
-.mail{font-size: 16px;
+.link{font-size: 16px;
     line-height: 1.5;
     color: #434455;
-letter-spacing: 0.02em}
-    .telephone{font-size: 16px;
-        line-height: 1.5;
-        color: #434455;
-    letter-spacing: 0.02em}
+letter-spacing: 0.02em;}
+    
 
         .contact-links a:hover, .contact-links a:focus{color:#404bbf;}
        .button-service{font-weight: 500;
@@ -55,9 +53,9 @@ letter-spacing: 0.02em}
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #2e2f42;
-        
-        }
+        color: #2e2f42;}
+        .list-section{background-color: #FFFFFF;}
+       
 .text-content{font-size: 16px;
     line-height: 1.5;
     color: #434455;
